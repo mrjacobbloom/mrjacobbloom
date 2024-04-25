@@ -1,6 +1,5 @@
 ## About me
-
-Hey, I'm Jacob! I’m a fun, energetic, resourceful programmer with a passion for JavaScript. I have egregious levels of experience in both client- and server-side JS, and I'm currently putting that knowledge to the test at my job with [Anark](https://anark.com).
+I'm a fun, energetic, resourceful programmer with a passion for JavaScript, and particularly metaprogramming and esoteric TypeScript. I've spent the last 5 years working with TypeScript/React and the MERN stack at [Anark](https://anark.com), though programming has been a passion of mine since childhood.
 
 <p align="center">
   <a alt="Check out my portfolio" href="https://jacobbloom.dev/code/">
